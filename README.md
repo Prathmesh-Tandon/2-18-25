@@ -4,3 +4,5 @@ already did print-hellow world -> save file -> gcc file name -> ./a.out
 git reset --hard #removed hellow world file.c
 git clean -fdx  #remove a.out
 git status # working tree clean
+git commit -a
+git push
