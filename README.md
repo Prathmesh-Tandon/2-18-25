@@ -9,3 +9,5 @@ git push
 # 04-23-25
 started the c course by piyush
 first unit completion - bmp.h
+# 04-26-25
+qemu,gdb to do text to risc-v compilation
