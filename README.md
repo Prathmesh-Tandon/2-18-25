@@ -18,4 +18,7 @@ Execute the following commands to install the toolchain, QEMU and GDB
 ```bash
 sudo apt update -y
 sudo apt install -y gcc-riscv64-unknown-elf qemu-system-misc gdb-multiarch
+
+gcc-riscv64-unknown - this part contains toolchain
+gdb is for debugging purpose to look inside cpu
 ```
